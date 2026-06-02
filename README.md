@@ -51,6 +51,7 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O sistema deve capturar a entrada sem erros, mapear a posição dada pelo outro usuário e exibir o "Vetor gerado para o algoritmo".
 
 **Imagem 2: Entrada de preferências do segundo usuário**
+
 ![Teste 2: Inserir Preferências Similares](assets/Captura%20de%20tela%202.png)
 
 
@@ -61,6 +62,7 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O algoritmo modificado deve contar exatamente 1 inversão (já que apenas o 3 e o 4 trocaram de lugar). Como 1 é menor ou igual à metade do limite máximo de inversões (10), o sistema deve exibir "RESULTADO: Os usuários têm gostos SIMILARES".
 
 **Imagem 3: Resultado de Afinidade Positiva**
+
 ![Teste 3: Verificar Afinidade Positiva](assets/Captura%20de%20tela%203.png)
 
 
@@ -72,6 +74,7 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O sistema deve atualizar o vetor de mapeamento com sucesso para a nova ordem solicitada.
 
 **Imagem 4: Entrada de preferências divergentes**
+
 ![Teste 4: Inserir Preferências Divergentes](assets/Captura%20de%20tela%204.png)
 
 
@@ -82,8 +85,8 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O algoritmo deve varrer o novo vetor e encontrar 8 inversões. Como 8 ultrapassa a tolerância (metade de 10), o sistema deve exibir "RESULTADO: Os usuários têm gostos MUITO DIFERENTES" e bloquear as recomendações.
 
 **Imagem 5: Resultado de Afinidade Negativa**
-![Teste 5: Verificar Afinidade Negativa]
-(assets/Captura%20de%20tela%205.png)
+
+![Teste 5: Verificar Afinidade Negativa](assets/Captura%20de%20tela%205.png)
 
 ## Instalação 
 Linguagem: *Python*
