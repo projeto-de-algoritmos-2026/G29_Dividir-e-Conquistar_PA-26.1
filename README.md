@@ -81,7 +81,8 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O algoritmo deve varrer o novo vetor e encontrar 8 inversões. Como 8 ultrapassa a tolerância (metade de 10), o sistema deve exibir "RESULTADO: Os usuários têm gostos MUITO DIFERENTES" e bloquear as recomendações.
 
 **Imagem 5: Resultado de Afinidade Negativa**
-![Teste 5: Verificar Afinidade Negativa](assets/Captura%20de%20tela%205.png)
+![Teste 5: Verificar Afinidade Negativa]
+(assets/Captura%20de%20tela%205.png)
 
 ## Instalação 
 Linguagem: *Python*
