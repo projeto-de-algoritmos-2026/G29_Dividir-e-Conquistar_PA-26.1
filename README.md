@@ -39,6 +39,7 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 **Resultado Esperado:** O sistema deve exibir "Top filmes cadastrados com sucesso!" e mostrar a ordem ideal que servirá de base para o algoritmo.
 
 **Imagem 1: Adição da lista base**
+
 ![Teste 1: Cadastrar Filmes](assets/Captura%20de%20tela%201.png)
 
 
