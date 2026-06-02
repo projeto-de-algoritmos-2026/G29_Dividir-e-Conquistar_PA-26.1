@@ -92,4 +92,4 @@ Foram executados testes manuais com o sistema. A seguir, são apresentadas as ca
 Linguagem: *Python*
 
 ## Gravação
-A gravação pode ser acessada através do link
+A gravação pode ser acessada através do link [https://youtu.be/XVTkeCulDFw](https://youtu.be/XVTkeCulDFw)
